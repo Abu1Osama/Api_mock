@@ -1,5 +1,25 @@
 {
-    "products": [],
-    "data": [],
-    "users": []
-  }
+  "dog": [
+    {
+      "name": "Abu Osmaa",
+      "age": "15",
+      "place": "female",
+      "gender": "saharsa",
+      "id": 2
+    },
+    {
+      "name": "Abu Osmaa",
+      "age": "20",
+      "place": "male",
+      "gender": "saharsa",
+      "id": 3
+    },
+    {
+      "name": "sam",
+      "age": "23",
+      "place": "male",
+      "gender": "delhi",
+      "id": 4
+    }
+  ]
+}

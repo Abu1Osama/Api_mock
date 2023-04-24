@@ -21,5 +21,11 @@
       "gender": "delhi",
       "id": 4
     }
-  ]
+  ],
+  "users": [],
+  "products": [],
+  "data": [],
+  "hotels": [],
+  "medicines": [],
+  "coffee":[]
 }

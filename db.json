@@ -27,5 +27,7 @@
   "data": [],
   "hotels": [],
   "medicines": [],
-  "coffee":[]
+  "coffee":[],
+  "cars":[],
+  "wishlisted_cars":[]
 }

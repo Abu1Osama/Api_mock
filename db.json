@@ -179,5 +179,39 @@
   "medicines": [],
   "coffee": [],
   "cars": [],
-  "wishlisted_cars": []
+  "wishlisted_cars": [],
+  "employees": [
+    {
+      "firstname": "Abu",
+      "lastname": "Osama",
+      "email": "abuosama@gmail.com",
+      "salary": 12000,
+      "department": "Marketing",
+      "id": 1
+    },
+    {
+      "firstname": "umer",
+      "lastname": "raza",
+      "email": "umer@gmail.com",
+      "salary": 2032,
+      "department": "Tech",
+      "id": 2
+    },
+    {
+      "firstname": "king",
+      "lastname": "khan",
+      "email": "king@gmail.com",
+      "salary": 2012,
+      "department": "Operations ",
+      "id": 3
+    },
+    {
+      "firstname": "masai",
+      "lastname": "education",
+      "email": "masaischoool@gmail.com",
+      "salary": 1976,
+      "department": "Marketing",
+      "id": 4
+    }
+  ]
 }

@@ -173,6 +173,64 @@
       "id": 1
     }
   ],
+  "icecreams": [
+    {
+      "name": "Classic Vanilla",
+      "flavor": "Vanilla",
+      "description": "Classic vanilla ice cream.",
+      "price": 200,
+      "stock": "15",
+      "id": 1
+    },
+    {
+      "name": "Dark Chocolate",
+      "flavor": "Chocolate",
+      "description": "Rich, creamy chocolate ice cream.",
+      "price": 250,
+      "stock": "10",
+      "id": 2
+    },
+    {
+      "name": "Classic vanilla ice cream.",
+      "flavor": "Strawberry",
+      "description": "Fresh and fruity strawberry ice cream.",
+      "price": 300,
+      "stock": "8",
+      "id": 3
+    },
+    {
+      "name": "Classic vanilla ice cream.",
+      "flavor": "Strawberry",
+      "description": "Fresh and fruity strawberry ice cream.",
+      "price": 300,
+      "stock": "8",
+      "id": 4
+    },
+    {
+      "name": "Classic vanilla ice cream.",
+      "flavor": "Strawberry",
+      "description": "Fresh and fruity strawberry ice cream.",
+      "price": 300,
+      "stock": "8",
+      "id": 5
+    },
+    {
+      "name": "Classic vanilla ice cream.",
+      "flavor": "Strawberry",
+      "description": "Fresh and fruity strawberry ice cream.",
+      "price": 300,
+      "stock": "8",
+      "id": 6
+    },
+    {
+      "name": "Classic vanilla ice cream.",
+      "flavor": "Strawberry",
+      "description": "Fresh and fruity strawberry ice cream.",
+      "price": 300,
+      "stock": "8",
+      "id": 7
+    }
+  ],
 
   "data": [],
   "hotels": [],

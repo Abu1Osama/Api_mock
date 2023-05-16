@@ -22,7 +22,7 @@
       "id": 4
     }
   ],
-  "users": [],
+ 
 
   "products": [
     {
@@ -232,7 +232,7 @@
     }
   ],
 
-  "data": [],
+ 
   "hotels": [],
   "medicines": [],
   "coffee": [],
@@ -270,6 +270,74 @@
       "salary": 1976,
       "department": "Marketing",
       "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Abu Osama",
+      "email": "abu@gamil.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "sam",
+      "email": "sam@gamil.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "email": "sam@gamil.com",
+      "password": "123123",
+      "id": 3
+    },
+    {
+      "email": "sam@gamil.com",
+      "password": "123123",
+      "id": 4
+    }
+  ],
+  "usersdata": [
+    {
+      "type": "",
+      "category": "Gifts",
+      "amount": "120",
+      "date": "2023-05-19",
+      "id": 1
+    },
+    {
+      "type": "Expence",
+      "category": "Bills",
+      "amount": "250",
+      "date": "2023-05-18",
+      "id": 2
+    },
+    {
+      "type": "Expence",
+      "category": "Refunds",
+      "amount": "300",
+      "date": "2023-05-20",
+      "id": 3
+    },
+    {
+      "type": "Expence",
+      "category": "Refunds",
+      "amount": "210",
+      "date": "2023-05-20",
+      "id": 4
+    },
+    {
+      "type": "Income",
+      "category": "FoodDrinks",
+      "amount": "140",
+      "date": "2023-05-20",
+      "id": 5
+    },
+    {
+      "type": "Income",
+      "category": "Others",
+      "amount": "350",
+      "date": "2023-05-29",
+      "id": 6
     }
   ]
 }

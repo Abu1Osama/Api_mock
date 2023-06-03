@@ -22,7 +22,6 @@
       "id": 4
     }
   ],
- 
 
   "products": [
     {
@@ -231,8 +230,6 @@
       "id": 7
     }
   ],
-
- 
   "hotels": [],
   "medicines": [],
   "coffee": [],
@@ -338,6 +335,328 @@
       "amount": "350",
       "date": "2023-05-29",
       "id": 6
+    }
+  ],
+
+  " jeb_product": [
+    {
+      "title": "Rancilio Classe 7 USB 2 Group Volumetric Espresso Machine, Blacko",
+      "catogery": "top sellers",
+      "price": 25650,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/d/a/da715bc0-04a2-4d42-a77f-a448741cea80-jpg-6ec3be7ab276a263177547fb91864acd_2nd.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/e/z/ezgif-3-8dadabcf2e.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/e/z/ezgif-3-5120748ecb.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/e/z/ezgif-3-24012df9d5.jpg"
+      ]
+    },
+    {
+      "title": "Nuova Simonelli Appia Life Volumetric 2 Group Espresso Machine",
+      "catogery": "top sellers",
+      "price": 12699,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/a/p/appia_life_2_group.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/a/p/appia_life_2_group_jebe_z.jpg"
+      ]
+    },
+    {
+      "title": "ECM Synchronika Double Boiler PID Espresso Machine",
+      "catogery": "top sellers",
+      "price": 12500,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/e/c/ecm_synchronika.png",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/e/c/ecm.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/s/y/synch_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/s/y/synch_2.jpg"
+      ]
+    },
+    {
+      "title": "La Marzocco Linea Mini Black with Free Eureka Mignon Specialita Grinder",
+      "catogery": "top sellers",
+      "price": 20475,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/b/l/black--black-grinder-neeew.jpg"
+      ]
+    },
+    {
+      "title": "ACS Minima Dual Boiler PID Coffee Machine",
+      "catogery": "top sellers",
+      "price": 7323.75,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/a/c/acs_minima_jebelz.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/a/c/acs-minima-black-front_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/a/c/acs-minima-black_1.jpg"
+      ]
+    },
+    {
+      "title": "Nuova Simonelli Oscar II Heat Exchanger Coffee Machine with OPV Kit",
+      "catogery": "top sellers",
+      "price": 3419.05,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/o/s/oscarii-black-front2_jebelz.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/o/s/oscarii-black-front_l-jebelz.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/o/s/oscarii-black-back_l-jebelz.jpg"
+      ]
+    },
+    {
+      "title": "Mahlkonig EK 43T 98mm Turkish Burr Coffee Grinder",
+      "catogery": "top sellers",
+      "price": 12390.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/m/a/mahlkonig-ek43-black-front-angle-jebelz_1.jpg"
+      ]
+    },
+    {
+      "title": "Victoria Arduino Mythos One 75mm Flat Burr Coffee Grinder",
+      "catogery": "top sellers",
+      "price": 10199.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/m/y/mythos-one-jebelz.png"
+      ]
+    },
+    {
+      "title": "Baratza Encore 40mm Conical Burr Coffee Grinder",
+      "catogery": "top sellers",
+      "price": 798.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/b/a/baratza_encore_jebelz.jpg"
+      ]
+    },
+    {
+      "title": "Bunn H3EA Water Boiler",
+      "catogery": "top sellers",
+      "price": 4500.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/4/5/45300.0000_h3ea_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/4/5/45300.9997_h3x_fig2-sht2_i_3.jpg"
+      ]
+    },
+    {
+      "title": "Compak E8 83mm Flat On Demand Coffee Grinder",
+      "catogery": "top sellers",
+      "price": 7875.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/c/o/compak_e8_dbw_jebelz.jpg"
+      ]
+    },
+    {
+      "title": "Baratza Sette 270 40mm Conical Burr Coffee Grinder",
+      "catogery": "top sellers",
+      "price": 1869.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/b/a/baratza-baratza-sette-270-conical-burr-grinder-jl-hufford-coffee-grinders-29410489893041_2_2nd.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/b/a/baratza-sette-270-coffee-grinder-side-borough-kitchen_2_2nd.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/b/a/baratza-sette-270-coffee-grinder_2_2nd.jpg"
+      ]
+    },
+    {
+      "title": "Mahlkonig EK 43S 98mm Flat Steel Burr Espresso Coffee Grinder",
+      "catogery": "top sellers",
+      "price": 12390.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/e/k/ek_43s_1_1.jpg"
+      ]
+    },
+    {
+      "title": "Baratza Sette 270Wi 40mm Conical Burr Coffee Grinder (Grind By Weight)",
+      "catogery": "top sellers",
+      "price": 2544.1,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/s/e/sette_270_wi_jebelz.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/s/e/sette_270_wi_jebelz_1.png"
+      ]
+    },
+    {
+      "title": "Eureka Mignon Specialita 55mm Flat Steel Burr Espresso Grinder",
+      "catogery": "top sellers",
+      "price": 2363.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/e/z/ezgif-1-085fa0a6b9.jpg"
+      ]
+    },
+    {
+      "title": "Flair 58 Manual Espresso Maker",
+      "catogery": "top sellers",
+      "price": 2362.5,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/f/l/flair_58_product_side_hero_square-scaled-jebelz.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/f/l/flair_58_product_front_square-scaled.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/f/l/flair_58_pf_square_woo-scaled.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/p/c/pcb_controller_flair_58_square-scaled_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/p/r/pressure_gauge_flair_58_small_square.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/f/l/flair_58_tamper_woo_square.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/f/l/flair_58_power_bank-scaled.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/f/l/flair_58_drip_tray-scaled.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/f/l/flair_58_puck_screen.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/f/l/flair_58_lifestyle_3_facebook-scaled.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/f/l/flair-87_square.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/f/l/flair-107_square.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/f/l/flair-119_square.jpg"
+      ]
+    },
+    {
+      "title": "Chemex Ottomatic 2.0 Coffee Maker (Brewer)",
+      "catogery": "top sellers",
+      "price": 1418.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/e/z/ezgif-2-dc5cd58a92.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/e/z/ezgif-2-cb9b7f79b1.jpg"
+      ]
+    },
+    {
+      "title": "Cafelier C2 Automatic Grouphead Cleaner",
+      "catogery": "top sellers",
+      "price": 1680.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/e/z/ezgif-5-388f089d86.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/c/a/cafelier-c2-auto-machine-grouphead-cleaner_1024x1024.jpg"
+      ]
+    },
+    {
+      "title": "AeroPress Original Coffee Maker",
+      "catogery": "top sellers",
+      "price": 137.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/a/e/aeropress-coffee-maker-jebelz.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/e/z/ezgif-2-5519c2da03.jpg"
+      ]
+    },
+    {
+      "title": "Aeropress Go Portable Coffee Maker",
+      "catogery": "top sellers",
+      "price": 152.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/d/s/dsc04617-edit.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/d/s/dsc04614-edit.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/d/s/dsc04608-edit.jpg"
+      ]
+    },
+    {
+      "title": "Brewista Artisan Electric Gooseneck Kettle, 600ml",
+      "catogery": "top sellers",
+      "price": 578.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/b/r/brewista_white_on_white_jebelz.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/b/r/brewista-artisan-electric-gooseneck-kettle-all-black-1lt_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/b/l/black_on_black_wood_brewista_jebelz_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/w/o/woodwhite_brewista_jebelz_1.jpg"
+      ]
+    },
+    {
+      "title": "Hario V60 Craft Coffee Maker",
+      "catogery": "top sellers",
+      "price": 79.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/4/1/4113-241ff55869ab72262e7c5d922fcde229.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/4/1/4113-241ff55869ab72262e7c5d922fcde229.jpg"
+      ]
+    },
+    {
+      "title": "1Zpresso Q2 Hand Coffee Grinder",
+      "catogery": "top sellers",
+      "price": 415.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/1/z/1zpresso_q2_jebelz.jpg"
+      ]
+    },
+    {
+      "title": "Rhino Pitcher Rinser - 600mm - Spinjet",
+      "catogery": "top sellers",
+      "price": 1575.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/r/h/rhprris600-s_m_angle.jpg"
+      ]
+    },
+    {
+      "title": "Flair 58 Manual Espresso Maker",
+      "catogery": "top sellers",
+      "price": 2362.5,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/f/l/flair_58_product_side_hero_square-scaled-jebelz_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/f/l/flair_58_product_front_square-scaled_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/f/l/flair_58_pf_square_woo-scaled_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/p/c/pcb_controller_flair_58_square-scaled_1_1.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/p/r/pressure_gauge_flair_58_small_square_1.jpg"
+      ]
+    },
+    {
+      "title": "Mood Espresso Nespresso Compatible 120 Capsules - Ristretto",
+      "catogery": "Coffee Corner",
+      "price": 120.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/1/_/1_2_3.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/r/i/ristretto_2.jpeg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/r/i/ristretto4.jpeg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/r/i/ristretto5.png"
+      ]
+    },
+    {
+      "title": "Mood Espresso Roasted Coffee Beans - Peru 1000 g",
+      "catogery": "Coffee Corner",
+      "price": 94.5,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/p/e/peru.png"
+      ]
+    },
+    {
+      "title": "Loose Unicorns Ethiopia - Burka Limu Specialty Drip Bags",
+      "catogery": "Coffee Corner",
+      "price": 40.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/d/r/drip-bag-ethiopia.png"
+      ]
+    },
+    {
+      "title": "Loose Unicorns Ethiopia Specialty - Nespresso Compatible, 10 Coffee Capsules",
+      "catogery": "Coffee Corner",
+      "price": 34.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/c/a/capsules-ethiopia.png"
+      ]
+    },
+    {
+      "title": "Encapsulate Arabic Coffee (Gahwa), Nespresso Compatible, 10 Capsules",
+      "catogery": "Coffee Corner",
+      "price": 25.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/i/m/img_6419.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/e/n/encapsulate_arabic_gahwa_capsules-01.jpg"
+      ]
+    },
+    {
+      "title": "Cappuccino - Dolce Gusto Compatible       ",
+      "catogery": "Coffee Corner",
+      "price": 25.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/d/v/dvdgcapp.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/d/o/dolcevita_gourmet_cappuccino-600x600.jpg"
+      ]
+    },
+    {
+      "title": "DolceVita Hazelnut Latte - Dolce Gusto Compatible, 16 Capsules",
+      "catogery": "Coffee Corner",
+      "price": 25.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/d/v/dvdghaz.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/d/o/dolcevita_gourmet_nocciola-600x600.jpg"
+      ]
+    },
+    {
+      "title": "Burundi - Drip Bags (8 bags)",
+      "catogery": "Coffee Corner",
+      "price": 80.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/d/r/dripbag_single_001.jpg",
+        "https://www.jebelz.com/media/catalog/product/cache/b7dbadaf00747a722dc31e1c45df2bb4/1/8/18sac_dripbags_800px.jpg"
+      ]
+    },
+    {
+      "title": "Segafredo Mio Caffe - Capuccino - Dolce Gusto Compatible Capsules",
+      "catogery": "Coffee Corner",
+      "price": 16.0,
+      "img": [
+        "https://www.jebelz.com/media/catalog/product/cache/4ec3cacea31d5a03269462614fb10cbb/8/3/83d28744-19a3-407d-b9cd-84ed7224c764-jpg-2e200e168b7cb1c4e1acba8d50365602_2nd.jpg"
+      ]
     }
   ]
 }

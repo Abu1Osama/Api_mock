@@ -2136,6 +2136,7 @@
       "price": "₹282"
     }
   ],
+  
   "courses": [
     {
       "name": "Building MicroServices in Java for Cloud",
@@ -2155,7 +2156,9 @@
       "teacherName": "JAVAPRO",
       "subject": ["Java"],
       "price": "20,000",
-      "id": "1"
+      "id": "1",
+      "category": "Programming",
+      "rating": 4.5
     },
     {
       "name": "Mastering Full Stack Data Analytics",
@@ -2175,7 +2178,9 @@
       "teacherName": "ANALYTIX",
       "subject": ["Data Analytics"],
       "price": "20,000",
-      "id": "2"
+      "id": "2",
+      "category": "Programming",
+      "rating": 4.2
     },
     {
       "name": "Full Stack Data Science Pro",
@@ -2195,7 +2200,9 @@
       "teacherName": "ADVANCE AI",
       "subject": ["Data Science"],
       "price": "25,000",
-      "id": "3"
+      "id": "3",
+      "category": "Programming",
+      "rating": 4.7
     },
     {
       "name": "Java with DSA & System Design 2.0 (BINARY 2.0)",
@@ -2215,9 +2222,11 @@
       ],
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7a622173-a4b0-4a10-afc7-729ac86d7eeb.png",
       "teacherName": "System Design",
-      "subject": ["java with dsa algorithm"],
+      "subject": ["Java", "Dsa"],
       "price": "50,000",
-      "id": "4"
+      "id": "4",
+      "category": "Programming",
+      "rating": 4.9
     },
     {
       "name": "DECODE DSA with C++ 2.0",
@@ -2234,9 +2243,11 @@
       ],
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b1bcd6ad-37d0-4dfb-964d-81d9a9d4113d.png",
       "teacherName": "DECODE 2.o",
-      "subject": ["DSA"],
+      "subject": ["Dsa"],
       "price": "35,000",
-      "id": "5"
+      "id": "5",
+      "category": "Programming",
+      "rating": 4.3
     },
     {
       "name": "Full Stack Web Development",
@@ -2254,7 +2265,9 @@
       "teacherName": "WEBPRO",
       "subject": ["Full Stack"],
       "price": "30,000",
-      "id": "6"
+      "id": "6",
+      "category": "Programming",
+      "rating": 4.2
     },
     {
       "name": "Java with DSA & System Design 2.0",
@@ -2272,13 +2285,15 @@
       ],
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e39ffc2b-e0fd-43e0-86c5-b23ad314c0f0.png",
       "teacherName": "java algoruthm",
-      "subject": ["java", "dsa"],
+      "subject": ["Java", "Dsa"],
       "price": "40,000",
-      "id": "7"
+      "id": "7",
+      "category": "Programming",
+      "rating": 4.8
     },
     {
       "name": "Arjuna NEET 3.0 2024",
-      "duration": "17 July 2023- 30 Jan 2024",
+      "duration": "17 July 2023 - 30 Jan 2024",
       "lectureType": "Live Lectures",
       "otherDetails": [
         "Complete 11th and NEET Syllabus will be covered",
@@ -2292,13 +2307,15 @@
       ],
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ef41acc0-1747-47fb-9786-0b6efb239eda.png",
       "teacherName": "For Neet 2024",
-      "subject": ["Physics", " Chemistry", "Botany", "Zoology"],
+      "subject": ["Physics", "Chemistry", "Botany", "Zoology"],
       "price": "40,000",
-      "id": "8"
+      "id": "8",
+      "category": "Neet",
+      "rating": 4.5
     },
     {
       "name": "Arjuna NEET 2024",
-      "duration": "10 April 2023- 10 Jan 2024",
+      "duration": "10 April 2023 - 10 Jan 2024",
       "lectureType": "Live Lectures",
       "otherDetails": [
         "Complete 11th board and NEET Syllabus will be covered",
@@ -2311,9 +2328,11 @@
       ],
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/91c520ed-2c2f-4183-99d2-626d702cc5d5.png",
       "teacherName": "For Neet 2024",
-      "subject": ["Physics", " Chemistry", "Botany", "Zoology"],
+      "subject": ["Physics", "Chemistry", "Botany", "Zoology"],
       "price": "42,000",
-      "id": "9"
+      "id": "9",
+      "category": "Neet",
+      "rating": 4.2
     },
     {
       "name": "Mole Concept Pocket Course for NEET",
@@ -2330,7 +2349,9 @@
       "teacherName": "Pocket Course",
       "subject": ["Chemistry"],
       "price": "200",
-      "id": "10"
+      "id": "10",
+      "category": "Neet",
+      "rating": 4.8
     },
     {
       "name": "Class 11th NEET One shot (ARJUNA NEET YT)",
@@ -2349,7 +2370,9 @@
       "teacherName": "For Neet 2024",
       "subject": ["Physics", "Chemistry", "Zoology"],
       "price": "15000",
-      "id": "11"
+      "id": "11",
+      "category": "Neet",
+      "rating": 4.6
     },
     {
       "name": "PW IOQM 2023",
@@ -2366,12 +2389,14 @@
       "teacherName": "For Neet 2023",
       "subject": ["Chemistry"],
       "price": "200",
-      "id": "12"
+      "id": "12",
+      "category": "Neet",
+      "rating": 4.7
     },
     {
       "name": "Yakeen NEET 2.0 2024",
-      "duration": "18 May 2023- 15 March 2024",
-      "lectureType": "live Lectures",
+      "duration": "18 May 2023 - 15 March 2024",
+      "lectureType": "Live Lectures",
       "otherDetails": [
         "Complete NEET Syllabus will be covered",
         "We will cover Physics, Chemistry, Botany & Zoology",
@@ -2386,12 +2411,14 @@
       "teacherName": "For Neet 2024",
       "subject": ["Physics", "Chemistry", "Botany", "Zoology"],
       "price": "3200",
-      "id": "13"
+      "id": "13",
+      "category": "Neet",
+      "rating": 4.3
     },
     {
       "name": "Ummeed 2023",
-      "duration": "21 Feb 2023 - 31 May 2023 ",
-      "lectureType": "Recording of lectures available ",
+      "duration": "21 Feb 2023 - 31 May 2023",
+      "lectureType": "Recording of lectures available",
       "otherDetails": [
         "Complete Syllabus of NEET",
         "We will cover Physics, Chemistry, Botany & Zoology",
@@ -2399,14 +2426,16 @@
         "Live classes will be on Competition Wallah channel.",
         "Both sets of faculties will take the live classes parallelly in this batch",
         "Daily Practice Problems with their Video Solution.",
-        "Classes starting from 21th Feb 2023.",
+        "Classes starting from 21st Feb 2023.",
         "Weekly Schedule will be provided in the community post of Competition Wallah and Announcement section on the PW App."
       ],
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4f7262f9-6fe9-4296-b540-3991739a9344.jpg",
       "teacherName": "For Neet Aspirants",
       "subject": ["Physics", "Chemistry", "Botany", "Zoology"],
       "price": "500",
-      "id": "14"
+      "id": "14",
+      "category": "Neet",
+      "rating": 4.8
     },
     {
       "name": "UPSC Mathematics Optional",
@@ -2426,14 +2455,16 @@
       "teacherName": "Targeted Batch for UPSC Aspirants",
       "subject": ["Maths"],
       "price": "7000",
-      "id": "15"
+      "id": "15",
+      "category": "Upsc",
+      "rating": 4.9
     },
     {
       "name": "UPSC Mains Test Series",
-      "duration": "03 sep 2023 - 31 Dec 2024",
+      "duration": "03 Sep 2023 - 31 Dec 2024",
       "lectureType": "Live Lectures",
       "otherDetails": [
-        " GS1 : Total 5 Full Length Test",
+        "GS1 : Total 5 Full Length Test",
         "Select 360 Enable batch",
         "Live Lectures by Qualified and Experienced Faculty of India.",
         "All the lectures will be delivered in the Hinglish language.",
@@ -2446,20 +2477,22 @@
       "teacherName": "Test series batch for UPSC Aspirants",
       "subject": ["Mains Test"],
       "price": "11999",
-      "id": "16"
+      "id": "16",
+      "category": "Upsc",
+      "rating": 4.6
     },
     {
       "name": "UPSC Prahar 2.0 2024",
       "duration": "25 Sep 2023 -  May 2027",
       "lectureType": "Live Lectures",
       "otherDetails": [
-        " One to One doubt Solving ",
-        "One to One Answer Evaluation ",
-        " One to One guidance and support through a mentorship program.",
+        "One to One doubt Solving",
+        "One to One Answer Evaluation",
+        "One to One guidance and support through a mentorship program.",
         "All the lectures will be delivered in the Hinglish language.",
         "Class PPT will be available on PW App.",
-        "Advance up your UPSC Preparation with  Optional along GS Concepts",
-        "TSoft Skills for Personality Development, Leadership Learning and Extreme Situation Handling",
+        "Advance up your UPSC Preparation with Optional along GS Concepts",
+        "Soft Skills for Personality Development, Leadership Learning and Extreme Situation Handling",
         "Every second month will come bringing interaction with"
       ],
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f995ff40-4c7f-45b2-9494-d9f6b5f8f399.png",
@@ -2474,20 +2507,22 @@
         "International Relations"
       ],
       "price": "15999",
-      "id": "17"
+      "id": "17",
+      "category": "Upsc",
+      "rating": 4.7
     },
     {
-      "name": "Titan 4.0  + UPSC Optional",
+      "name": "Titan 4.0 + UPSC Optional",
       "duration": "03 Sep 2023  -   Dec 2024",
       "lectureType": "Live Lectures",
       "otherDetails": [
-        " One to One doubt Solving ",
-        "One to One Answer Evaluation ",
-        " This batch includes comprehensive coverage of all the topics for all the four papers of G.S. Mains, GS Prelims and Essay for UPSC CSE 2024 for those having  Pub. Ad. as optional.",
+        "One to One doubt Solving",
+        "One to One Answer Evaluation",
+        "This batch includes comprehensive coverage of all the topics for all the four papers of G.S. Mains, GS Prelims and Essay for UPSC CSE 2024 for those having Pub. Ad. as optional.",
         "All the lectures will be delivered in the Hinglish language.",
         "Class PPT will be available on PW App.",
         "2 to 2:30 Hrs, 3 Lectures a day, Mon-Fri, Weekly CA Lecture.",
-        "TSoft Skills for Personality Development, Leadership Learning and Extreme Situation Handling",
+        "Soft Skills for Personality Development, Leadership Learning and Extreme Situation Handling",
         "Daily Class notes curated by experts on the topics discussed in the Live Lecture."
       ],
       "img": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/07d8e759-660b-4686-988a-97c9f8fb75c4.jpeg",
@@ -2502,14 +2537,16 @@
         "International Relations"
       ],
       "price": "19999",
-      "id": "18"
+      "id": "18",
+      "category": "Upsc",
+      "rating": 4.8
     },
     {
       "name": "All Subjects for class 6th",
       "duration": "31 Dec 2023  -  Dec 2024",
       "lectureType": "Live Lectures",
       "otherDetails": [
-        " Complete Course for Class 6th UP Board students for all subjects.",
+        "Complete Course for Class 6th UP Board students for all subjects.",
         "One-stop destination for all your UP Board needs.",
         "Live Classes by Expert Faculties.",
         "Interactive Doubt Solving Sessions.",
@@ -2521,14 +2558,16 @@
       "teacherName": "UP Board Experts",
       "subject": ["Maths", "Science", "Social Studies", "English", "Hindi"],
       "price": "4999",
-      "id": "19"
+      "id": "19",
+      "category": "Upsc",
+      "rating": 4.5
     },
     {
       "name": "Complete Science Course (English) 2023",
       "duration": "31 Dec 2023  -  Dec 2024",
       "lectureType": "Live Lectures",
       "otherDetails": [
-        " Comprehensive Science Course for Class 9th CBSE students.",
+        "Comprehensive Science Course for Class 9th CBSE students.",
         "Live Classes by Expert Science Faculties.",
         "Interactive Doubt Solving Sessions.",
         "Comprehensive Study Material included.",
@@ -2540,7 +2579,9 @@
       "teacherName": "Science Faculty",
       "subject": ["Science"],
       "price": "5999",
-      "id": "20"
+      "id": "20",
+      "category": "Upsc",
+      "rating": 4.7
     }
   ]
 }

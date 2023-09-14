@@ -2137,7 +2137,7 @@
     }
   ],
 
-  "courses": [
+  "courses_online": [
     {
       "name": "Building MicroServices in Java for Cloud",
       "duration": "16 Sep 2023 - 16 Sep 2025",
